@@ -1,6 +1,6 @@
 # Association-Rule-Mining
 
-##Description
+## Description
 
 The aim of this project is to create association rules of a grocery store transaction list and determine what products are purchased together the most.
 
